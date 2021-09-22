@@ -15,3 +15,18 @@ Despues del paso 3, nuestro repo local y nuestro repo en github ya se conocen
 
 5- Anadir los archivos a github
     - git add . (el punto anade todo lo que haya en nuestro proyecto)
+
+6- Chequear el estado de los archivos
+    - git status
+
+Todavia no se subieron a github (changes to be comitted)
+
+7- Dejar un commit (comentario sobre lo que hice)
+    - git commit -m "el commit que quiera poner" (va a ser agregado al archivo)
+
+8- Hacer el push (subir todos los archivos a la nube)
+    - git push -u origin master (envio los archivos desde mater a origin)
+    (origin -> es la rama que trabaja github)
+    (master -> es la rama que viene por defecto en vscode)
+
+9- Se subio el archivo a github
