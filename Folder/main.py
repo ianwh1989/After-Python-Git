@@ -14,6 +14,7 @@ def multiplicar(a, b):
 def dividir(a, b):
     return a / b
 
+
 sumar(1, 2)
 restar(4, 2)
 multiplicar(6, 3)
