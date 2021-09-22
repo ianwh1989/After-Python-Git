@@ -23,7 +23,7 @@ Todavia no se subieron a github (changes to be comitted)
 
 7- Dejar un commit (comentario sobre lo que hice)
     - git commit -m "el commit que quiera poner" (va a ser agregado al archivo)
-    - git commit -m "el commit que quiera poner" <la/direccion/del/archivo>
+    - git commit -m "el commit que quiera poner" <la/direccion/del/archivo> (info.txt)
 8- Hacer el push (subir todos los archivos a la nube)
     - git push -u origin master (envio los archivos desde mater a origin)
     (origin -> es la rama que trabaja github)
